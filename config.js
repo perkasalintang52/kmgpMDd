@@ -8,8 +8,8 @@ global.owner = [
   ['+6281322577123'],
   ['+6281322577123'],
   ['+6281322577123'],
+  ['+6281322577123', 'urfavboy-lintang-', true],
   ['+6281322577123', 'urfavboy-lintang', true],
-  ['+6281322577123', 'Bot', true],
   ['+6281322577123', 'urfavboy-lintang', true],
   ['+6281322577123', 'urfavboy-lintang', true],
   // [number, dia creator/owner?, dia developer?]
